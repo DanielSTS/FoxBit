@@ -1,0 +1,18 @@
+{
+  "name": "FOXBIT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "author": "Daniel Santos Silva Júnior",
+  "license": "ISC",
+  "dependencies": {
+    "n-readlines": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
